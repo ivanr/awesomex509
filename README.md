@@ -17,6 +17,12 @@ of other places where they play a role.
 | UIC / VDV barcodes                   | Train Tickets                 | https://media.ccc.de/v/38c3-what-s-inside-my-train-ticket                           |
 | ELSTER                               | Login for German tax system   | https://www.elster.de/eportal/login/softpse                                         |
 | Peppol                               | Electronic Invoice Delivery   | https://peppol.org/wp-content/uploads/2022/04/PEPPOL_Certificates_Change_V1.2.pdf   |
+| Time-Stamp Protocol (TSP)            | Trusted Timestamps            | https://www.rfc-editor.org/rfc/rfc3161                                              |
+| Authenticode (Microsoft)             | Windows Code Signing          | https://learn.microsoft.com/en-us/windows-hardware/drivers/install/authenticode     |
+| Codesign (Apple)                     | macOS Code Signing            | https://support.apple.com/guide/security/app-code-signing-process-sec3ad8e6e53/web  |
+| Firefox Extension Signing            | Code Signatures for Add-ons   | https://wiki.mozilla.org/Add-ons/Extension_Signing                                  |
+| PAdES                                | PDF Signatures                | https://en.wikipedia.org/wiki/PAdES                                                 |
+| xmldsig                              | XML Signatures                | https://www.w3.org/TR/xmldsig-core/                                                 |
 
 Know other use cases of X.509 certificates? Please open a pull request or an issue.
 
